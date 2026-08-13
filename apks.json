@@ -1,0 +1,94 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-08-13",
+  "apks": [
+    {
+      "category": "Totem",
+      "filename": "Atendimento_Inteligente.apk",
+      "label": "Atendimento Inteligente",
+      "sha256": "4220275ed887c473427842d19594b4f6cf42509b06b8e2b15ec200a7dd7bcf1e",
+      "size": 13060540,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Totem-Atendimento_Inteligente.apk"
+    },
+    {
+      "category": "Totem",
+      "filename": "Totem_Interativo.apk",
+      "label": "Totem Interativo",
+      "sha256": "649066af334a1c8cdc96ba927d415aeae5e7f38d09e5eb2b47813a19967a3018",
+      "size": 6806428,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Totem-Totem_Interativo.apk"
+    },
+    {
+      "category": "Totem",
+      "filename": "Upzz.apk",
+      "label": "Upzz",
+      "sha256": "2e1e0ad52c7f07b131a74b41524ef269254dd1e66559d505419e7acdef7910a3",
+      "size": 11133119,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Totem-Upzz.apk"
+    },
+    {
+      "category": "Painel",
+      "filename": "Atendimento_Inteligente.apk",
+      "label": "Atendimento Inteligente",
+      "sha256": "bff7db69c8cdaad6287cf7a7ea771e49d8ee8ea6e8e334a37e1480288d06ef98",
+      "size": 10252170,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Painel-Atendimento_Inteligente.apk"
+    },
+    {
+      "category": "Painel",
+      "filename": "Painel_Cirurgico.apk",
+      "label": "Painel Cirurgico",
+      "sha256": "3c0065a963d0fd4733ffc19369364d1cf07184fb328c526eec7175747b11c1de",
+      "size": 8814990,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Painel-Painel_Cirurgico.apk"
+    },
+    {
+      "category": "Painel",
+      "filename": "Aiclass.apk",
+      "label": "Aiclass",
+      "sha256": "e1c1b2a6146d49ae34f3501a675d96224e637deeb67a4fec81dde711f9682493",
+      "size": 621934,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Painel-Aiclass.apk"
+    },
+    {
+      "category": "Painel",
+      "filename": "Ainurse.apk",
+      "label": "Ainurse",
+      "sha256": "91e611acc9fee4cc158913ea665dc47803b53f29e072329b36f2d92940762382",
+      "size": 3840613,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Painel-Ainurse.apk"
+    },
+    {
+      "category": "Painel",
+      "filename": "Aifit.apk",
+      "label": "Aifit",
+      "sha256": "c2ffcce2cbd86712478bec90e82c8aae4c06753d402566dc641475b061ae8938",
+      "size": 8716042,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Painel-Aifit.apk"
+    },
+    {
+      "category": "Outros",
+      "filename": "Sintese_de_Voz.apk",
+      "label": "Sintese de Voz",
+      "sha256": "a73bbc88f7e6afd3833c3aa29240d403c60460aeafbc98151f0ddb75f79bd28d",
+      "size": 19374251,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Outros-Sintese_de_Voz.apk"
+    },
+    {
+      "category": "Outros",
+      "filename": "ADB_Wifi.apk",
+      "label": "ADB Wi-fi",
+      "sha256": "5617202442bbe35191b23e17e545c83a133b45cb186e80622088f460158828ef",
+      "size": 1745579,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Outros-ADB_Wifi.apk"
+    },
+    {
+      "category": "Outros",
+      "filename": "Autostart.apk",
+      "label": "Autostart",
+      "sha256": "be805cbbfacf5ab11313b287104a51db28dada359042799e2dd03cc7898be88c",
+      "size": 273335,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Outros-Autostart.apk"
+    }
+  ]
+}
