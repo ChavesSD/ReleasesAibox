@@ -1,27 +1,28 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "min_version": "1.0.0",
   "channel": "stable",
-  "published_at": "2026-08-13",
+  "published_at": "2026-08-14",
   "notes": {
     "added": [
-      "Instalador único sem APKs embutidos",
-      "Download de APKs a partir do repositório de releases"
+      "Autostart marcado e instalado automaticamente com qualquer APK",
+      "Configuração da Síntese de Voz: português (Brasil) e Voz V"
     ],
     "fixed": [
-      "Detecção USB de totens Allwinner (adb_usb.ini)"
+      "Espera o download da voz pt-BR antes de selecionar a Voz V",
+      "Configuração do Autostart mais rápida no Mini PC"
     ],
     "removed": []
   },
   "asset": {
-    "name": "Aibox-windows-x64-1.0.0.zip",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/releases/download/v1.0.0/Aibox-windows-x64-1.0.0.zip",
-    "sha256": "",
-    "size": 0
+    "name": "Aibox-windows-x64-1.0.1.zip",
+    "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/Aibox-windows-x64-1.0.1.zip",
+    "sha256": "02ee1257d1f63a584128b0f90c551e75b9abb55d093e834044c6c89b89ec16ab",
+    "size": 67256361
   },
   "installer": {
     "name": "Aibox-Setup.exe",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/releases/download/v1.0.0/Aibox-Setup.exe",
+    "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/Aibox-Setup.exe",
     "install_dir": "C:\\Aibox",
     "includes_apks": false
   },
