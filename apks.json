@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated_at": "2026-08-13",
+  "version": "1.0.2",
+  "updated_at": "2026-08-17",
   "apks": [
     {
       "category": "Totem",
@@ -25,6 +25,14 @@
       "sha256": "2e1e0ad52c7f07b131a74b41524ef269254dd1e66559d505419e7acdef7910a3",
       "size": 11133119,
       "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Totem-Upzz.apk"
+    },
+    {
+      "category": "Totem",
+      "filename": "Ai_Horizontal.apk",
+      "label": "AI Horizontal",
+      "sha256": "9b4616424ba4619472d92be297e7137ff555fd358ef47f46c3ce7429ca384ae3",
+      "size": 13123577,
+      "url": "https://raw.githubusercontent.com/ChavesSD/ReleasesAibox/main/apk_assets/Totem-Ai_Horizontal.apk"
     },
     {
       "category": "Painel",
