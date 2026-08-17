@@ -1,27 +1,26 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.3",
   "min_version": "1.0.0",
   "channel": "stable",
-  "published_at": "2026-08-13",
+  "published_at": "2026-08-17",
   "notes": {
-    "added": [
-      "Instalador único sem APKs embutidos",
-      "Download de APKs a partir do repositório de releases"
-    ],
+    "added": [],
     "fixed": [
-      "Detecção USB de totens Allwinner (adb_usb.ini)"
+      "Download de APKs: o app não confundia mais um espelho 404 com catálogo inexistente",
+      "Mapeia nomes do GitHub (Totem-Upzz.apk) para a pasta local Totem/Upzz.apk",
+      "Busca de atualizações usa os mesmos espelhos/API do GitHub (não falha só no raw.githubusercontent)"
     ],
     "removed": []
   },
   "asset": {
-    "name": "Aibox-windows-x64-1.0.0.zip",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/releases/download/v1.0.0/Aibox-windows-x64-1.0.0.zip",
-    "sha256": "",
-    "size": 0
+    "name": "Aibox-windows-x64-1.0.3.zip",
+    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.3.zip",
+    "sha256": "16a46600b70a183c74b52199230805b964eb42900b084d91f50630ce1a044169",
+    "size": 67265272
   },
   "installer": {
     "name": "Aibox-Setup.exe",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/releases/download/v1.0.0/Aibox-Setup.exe",
+    "url": "",
     "install_dir": "C:\\Aibox",
     "includes_apks": false
   },
