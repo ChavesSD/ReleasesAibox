@@ -1,22 +1,20 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "min_version": "1.0.0",
   "channel": "stable",
   "published_at": "2026-08-17",
   "notes": {
     "added": [],
     "fixed": [
-      "Download de APKs: o app não confundia mais um espelho 404 com catálogo inexistente",
-      "Mapeia nomes do GitHub (Totem-Upzz.apk) para a pasta local Totem/Upzz.apk",
-      "Busca de atualizações usa os mesmos espelhos/API do GitHub (não falha só no raw.githubusercontent)"
+      "Síntese de Voz: espera 30s após português (Brasil) para a voz terminar de baixar"
     ],
     "removed": []
   },
   "asset": {
-    "name": "Aibox-windows-x64-1.0.3.zip",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.3.zip",
-    "sha256": "16a46600b70a183c74b52199230805b964eb42900b084d91f50630ce1a044169",
-    "size": 67265272
+    "name": "Aibox-windows-x64-1.0.4.zip",
+    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.4.zip",
+    "sha256": "2336d2265a5b9654b5ea91180df1382cfc371670652a1c84c1cde791e6e9948d",
+    "size": 67265163
   },
   "installer": {
     "name": "Aibox-Setup.exe",
