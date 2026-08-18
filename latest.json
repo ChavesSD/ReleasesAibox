@@ -1,20 +1,20 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "min_version": "1.0.0",
   "channel": "stable",
   "published_at": "2026-08-18",
   "notes": {
     "added": [],
     "fixed": [
-      "Síntese de Voz: a lista de idiomas volta a rolar até português (Brasil) sem travar na tela"
+      "Ícone do app e do instalador usa o arquivo .ico nativo, sem ficar desfalcado"
     ],
     "removed": []
   },
   "asset": {
-    "name": "Aibox-windows-x64-1.0.9.zip",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.9.zip",
-    "sha256": "98a37f24b27e17c654e3ec736be6f47c9cb46c10cc9fa7f783f54781ba0202f0",
-    "size": 67278656
+    "name": "Aibox-windows-x64-1.0.10.zip",
+    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.10.zip",
+    "sha256": "f863061f74d142732b746a2cb3c49aa9a8988c7af34d04539a9a3a4f99154abd",
+    "size": 65781351
   },
   "installer": {
     "name": "Aibox-Setup.exe",
