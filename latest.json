@@ -1,20 +1,20 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "min_version": "1.0.0",
   "channel": "stable",
   "published_at": "2026-08-18",
   "notes": {
     "added": [],
     "fixed": [
-      "Síntese de Voz: no Mini PC a lista de idiomas passa a ser navegada com o controle (P-O-R e setas) até português (Brasil)"
+      "Atualização in-app: não abre mais a janela preta do find.exe que reaparecia ao fechar"
     ],
     "removed": []
   },
   "asset": {
-    "name": "Aibox-windows-x64-1.0.7.zip",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.7.zip",
-    "sha256": "2f004a4de063b709ba2870569cc4f0018160645cc936e878606b16a8e17576b4",
-    "size": 67277728
+    "name": "Aibox-windows-x64-1.0.8.zip",
+    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.8.zip",
+    "sha256": "fd9cdcf82e3216e911a6cd9c5466f13ddda83b44ac22d1588e9cbd502749dadc",
+    "size": 67280809
   },
   "installer": {
     "name": "Aibox-Setup.exe",
