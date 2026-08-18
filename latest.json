@@ -1,21 +1,20 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "min_version": "1.0.0",
   "channel": "stable",
   "published_at": "2026-08-18",
   "notes": {
     "added": [],
     "fixed": [
-      "Autostart: o Auto startup passa a ficar realmente em ON",
-      "Síntese de Voz: na primeira abertura espera a lista de idiomas e seleciona português (Brasil), sem navegar na tela preta"
+      "Síntese de Voz: no Mini PC a lista de idiomas passa a ser navegada com o controle (P-O-R e setas) até português (Brasil)"
     ],
     "removed": []
   },
   "asset": {
-    "name": "Aibox-windows-x64-1.0.6.zip",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.6.zip",
-    "sha256": "c4090f6925cffb08fa6685591aa76f7c24f0f78fd30b1d3e7691b46f1ae5776d",
-    "size": 67277048
+    "name": "Aibox-windows-x64-1.0.7.zip",
+    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.7.zip",
+    "sha256": "2f004a4de063b709ba2870569cc4f0018160645cc936e878606b16a8e17576b4",
+    "size": 67277728
   },
   "installer": {
     "name": "Aibox-Setup.exe",
