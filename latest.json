@@ -1,23 +1,21 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "min_version": "1.0.0",
   "channel": "stable",
   "published_at": "2026-08-18",
   "notes": {
-    "added": [
-      "Segunda tentativa automática da Síntese de Voz e do Autostart se a primeira falhar"
-    ],
+    "added": [],
     "fixed": [
-      "Atualização in-app: o app volta a abrir na versão nova após o reinício",
-      "Síntese de Voz: espera extra se a voz ainda estiver baixando antes de selecionar a Voz V"
+      "Autostart: o Auto startup passa a ficar realmente em ON",
+      "Síntese de Voz: na primeira abertura espera a lista de idiomas e seleciona português (Brasil), sem navegar na tela preta"
     ],
     "removed": []
   },
   "asset": {
-    "name": "Aibox-windows-x64-1.0.5.zip",
-    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.5.zip",
-    "sha256": "5ed049412a928b9824f189b458fef3859ca36582579511ccb47a2f4f6e0e9058",
-    "size": 67266182
+    "name": "Aibox-windows-x64-1.0.6.zip",
+    "url": "https://github.com/ChavesSD/ReleasesAibox/raw/refs/heads/main/Aibox-windows-x64-1.0.6.zip",
+    "sha256": "c4090f6925cffb08fa6685591aa76f7c24f0f78fd30b1d3e7691b46f1ae5776d",
+    "size": 67277048
   },
   "installer": {
     "name": "Aibox-Setup.exe",
